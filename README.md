@@ -1,3 +1,10 @@
+HW0 ANSWERS
+Name: Nicolas van Houten
+USCID: 9461360333
+
+
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
